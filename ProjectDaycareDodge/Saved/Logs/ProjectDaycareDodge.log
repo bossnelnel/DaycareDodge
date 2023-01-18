@@ -1121,3 +1121,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.18-18.51.29:861][243]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2023.01.18-18.51.38:523][277]Cmd: SELECT NONE
 [2023.01.18-18.53.18:550][ 75]LogDerivedDataCache: C:/Users/ncbsc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.070 and deleted 0 files with total size 0 MiB. Scanned 8483 files in 8342 folders with total size 2000 MiB.
+[2023.01.18-19.01.15:719][542]LogSlate: Window 'Project Settings' being destroyed
+[2023.01.18-19.01.15:722][542]LogSlate: Window 'Project Settings' being destroyed
