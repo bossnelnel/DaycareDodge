@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ncbsc/OneDrive/Documents/Unreal Projects/DaycareDodge/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/ncbsc/OneDrive/Documents/Unreal Projects/DaycareDodge/MyProject/Content/Blueprints/BP_Test.uasset",
+				"C:/Users/ncbsc/OneDrive/Documents/Unreal Projects/DaycareDodge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/BB/XULA3DX9HYF2F5I2UUAGNQ.uasset",
+				"C:/Users/ncbsc/OneDrive/Documents/Unreal Projects/DaycareDodge/MyProject/Content/Blueprints/BP_Pickup.uasset",
+				"C:/Users/ncbsc/OneDrive/Documents/Unreal Projects/DaycareDodge/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ncbsc/OneDrive/Documents/Unreal Projects/DaycareDodge/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ncbsc/OneDrive/Documents/Unreal Projects/DaycareDodge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ZJ/W82WS4KJ9Q6XI392DC2P4O.uasset",
+				"C:/Users/ncbsc/OneDrive/Documents/Unreal Projects/DaycareDodge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WN/YEFB0NI3L87P012IUMKHSB.uasset",
+				"C:/Users/ncbsc/OneDrive/Documents/Unreal Projects/DaycareDodge/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6O/LXH5CF5EIJC29M66OB1IN3.uasset"
+			]
+		}
+	]
+}
